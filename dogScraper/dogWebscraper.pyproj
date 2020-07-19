@@ -5,7 +5,8 @@
     <ProjectGuid>f34f8f64-2586-4c45-8ff2-f617d7baa4af</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>dogScraper.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +24,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="dogScraper.py" />
+    <Compile Include="dogScraper.pyw" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|miniconda3" />

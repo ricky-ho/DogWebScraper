@@ -2,3 +2,5 @@
 dogScraper/debug.log
 dogScraper/geckodriver.log
 .vs/dogScraper/v16/.suo
+dogScraper/login.yml
+dogScraper/dogWebscraper.pyproj
