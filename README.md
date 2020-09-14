@@ -1,4 +1,4 @@
-# DogScraper
+# DogWebScraper
 
 ## Description
 This is a webscraping project that I worked on as my family and I were looking to adopt a dog. Rather than constantly checking 
